@@ -38,14 +38,6 @@ Este repositório documenta minha experiência prática no uso do **Azure Speech
 
 ---
 
-## 📷 Imagens da Experiência
-
-| Speech Studio | Language Studio |
-|---------------|------------------|
-| ![speech](images/speech-studio-demo.png) | ![language](images/language-studio-demo.png) |
-
----
-
 ## 📖 Aprendizados e Insights
 
 > “A prática com as ferramentas da Azure me permitiu visualizar de forma mais concreta como a IA de linguagem pode ser aplicada em soluções do mundo real — desde chatbots até assistentes virtuais com compreensão de fala.”
@@ -55,7 +47,6 @@ Este repositório documenta minha experiência prática no uso do **Azure Speech
 ## 📁 Organização do Projeto
 
 - `/insights`: Notas e aprendizados técnicos
-- `/images`: Capturas de tela das ferramentas em uso
 - `README.md`: Visão geral do desafio e documentação principal
 
 ---
